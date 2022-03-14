@@ -1,0 +1,35 @@
+{
+  "name": "fooding-bot-server",
+  "version": "1.0.0",
+  "description": "뭘 먹을지 고르기 힘드신 분들을 위한 랜덤 메뉴 추천! 자신이 원하는 종류의 메뉴와 한 끼 예산을 설정하여 랜덤한 메뉴를 받아보세요! 메뉴 추천은 자신의 위치(주소) 주위의 음식점의 메뉴들 중 하나를 랜덤으로 골라서 추천해드립니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TJLee93/fooding-bot-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TJLee93/fooding-bot-server/issues"
+  },
+  "homepage": "https://github.com/TJLee93/fooding-bot-server#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mocha": "^8.3.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "sequelize-cli": "^6.2.0",
+    "nodemon": "^2.0.7"
+  }
+}

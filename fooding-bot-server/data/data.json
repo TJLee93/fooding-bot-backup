@@ -1,0 +1,268 @@
+{
+  "foods": [
+    {
+      "type": "한식",
+      "restaurant": "양평해장국",
+      "address": "경기도 시흥시 거모동 군자로 343",
+      "food_name": "양평해장국",
+      "price": 7000,
+      "img": "../양평해장국.jpg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "양평해장국",
+      "address": "경기도 시흥시 거모동 군자로 343",
+      "food_name": "내장탕",
+      "price": 8000,
+      "img": "../img/내장탕.jpeg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "양평해장국",
+      "address": "경기도 시흥시 거모동 군자로 343",
+      "food_name": "황태해장국",
+      "price": 7000,
+      "img": "../img/황태해장국.jpg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "용추골순대",
+      "address": "경기 안산시 단원구 선부광장1로 22",
+      "food_name": "순대국",
+      "price": 8000,
+      "img": "../img/황태해장국.jpg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "용추골순대",
+      "address": "경기 안산시 단원구 선부광장1로 22",
+      "food_name": "통뼈해장국",
+      "price": 8000,
+      "img": "../img/통뼈해장국.jpeg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "용추골순대",
+      "address": "경기 안산시 단원구 선부광장1로 22",
+      "food_name": "시골순대",
+      "price": 10000,
+      "img": "../img/시골순대.jpg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "갈비이야기",
+      "address": "경기 안산시 단원구 선부광장로 15",
+      "food_name": "소이동갈비",
+      "price": 18000,
+      "img": "../img/소이동갈비.jpeg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "갈비이야기",
+      "address": "경기 안산시 단원구 선부광장로 15",
+      "food_name": "왕생소갈비",
+      "price": 32000,
+      "img": "../img/왕생소갈비.jpeg"
+    },
+    {
+      "type": "한식",
+      "restaurant": "갈비이야기",
+      "address": "경기 안산시 단원구 선부광장로 15",
+      "food_name": "왕양념소갈비",
+      "price": 30000,
+      "img": "../img/왕양념소갈비.jpg"
+    },
+    {
+      "type": "중식",
+      "restaurant": "가화만사성",
+      "address": "경기 안산시 단원구 선부광장1로 56 일성이조마트",
+      "food_name": "짜장면",
+      "price": 5000,
+      "img": "../img/짜장면.jpg"
+    },
+    {
+      "type": "중식",
+      "restaurant": "가화만사성",
+      "address": "경기 안산시 단원구 선부광장1로 56 일성이조마트",
+      "food_name": "짬뽕",
+      "price": 6000,
+      "img": "../img/짬뽕.jpg"
+    },
+    {
+      "type": "중식",
+      "restaurant": "가화만사성",
+      "address": "경기 안산시 단원구 선부광장1로 56 일성이조마트",
+      "food_name": "볶음밥",
+      "price": 5000,
+      "img": "../img/볶음밥.jpeg"
+    },
+    {
+      "type": "중식",
+      "restaurant": "교동짬뽕",
+      "address": "경기 안산시 단원구 라성로 43",
+      "food_name": "짜장면",
+      "price": 6000,
+      "img": "../img/짜장면.jpg"
+    },
+    {
+      "type": "중식",
+      "restaurant": "교동짬뽕",
+      "address": "경기 안산시 단원구 라성로 43",
+      "food_name": "교동짬뽕",
+      "price": 8000,
+      "img": "../img/교동짬뽕.jpg"
+    },
+    {
+      "type": "중식",
+      "restaurant": "교동짬뽕",
+      "address": "경기 안산시 단원구 라성로 43",
+      "food_name": "탕수육",
+      "price": 17000,
+      "img": "../img/탕수육.jpg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "더스시",
+      "address": "경기 시흥시 중심상가로 329",
+      "food_name": "초밥정식",
+      "price": 20000,
+      "img": "../img/초밥정식.jpeg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "더스시",
+      "address": "경기 시흥시 중심상가로 329",
+      "food_name": "회덮밥",
+      "price": 9000,
+      "img": "../img/회덮밥.jpeg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "더스시",
+      "address": "경기 시흥시 중심상가로 329",
+      "food_name": "우동정식",
+      "price": 8000,
+      "img": "../img/우동정식.jpeg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "포크돈까스",
+      "address": "경기 시흥시 큰솔로 16-1 101호",
+      "food_name": "등심돈까스",
+      "price": 9000,
+      "img": "../img/등심돈까스.jpg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "포크돈까스",
+      "address": "경기 시흥시 큰솔로 16-1 101호",
+      "food_name": "치즈롤까스",
+      "price": 10000,
+      "img": "../img/치즈롤까스.jpg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "포크돈까스",
+      "address": "경기 시흥시 큰솔로 16-1 101호",
+      "food_name": "치즈돈까스",
+      "price": 10000,
+      "img": "../img/치즈돈까스.jpeg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "우마이라멘",
+      "address": "경기 시흥시 정왕대로28번길 31 동남아파트",
+      "food_name": "돈코츠라멘",
+      "price": 9000,
+      "img": "../img/돈코츠라멘.jpeg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "우마이라멘",
+      "address": "경기 시흥시 정왕대로28번길 31 동남아파트",
+      "food_name": "쿠라이라멘",
+      "price": 9000,
+      "img": "../img/쿠라이라멘.jpg"
+    },
+    {
+      "type": "일식",
+      "restaurant": "우마이라멘",
+      "address": "경기 시흥시 정왕대로28번길 31 동남아파트",
+      "food_name": "소유라멘",
+      "price": 9000,
+      "img": "../img/소유라멘.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "피자마루",
+      "address": "경기 시흥시 오이도로157번길 22-2",
+      "food_name": "불고기피자",
+      "price": 13900,
+      "img": "../img/불고기피자국.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "피자마루",
+      "address": "경기 시흥시 오이도로157번길 22-2",
+      "food_name": "치즈피자",
+      "price": 12900,
+      "img": "../img/치즈피자.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "피자마루",
+      "address": "경기 시흥시 오이도로157번길 22-2",
+      "food_name": "페페로니피자",
+      "price": 18900,
+      "img": "../img/페페로니피자.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "행복한다이닝",
+      "address": "경기 시흥시 배곧4로 32-28 그랜드프라자 3층",
+      "food_name": "파스타",
+      "price": 18000,
+      "img": "../img/파스타.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "행복한다이닝",
+      "address": "경기 시흥시 배곧4로 32-28 그랜드프라자 3층",
+      "food_name": "까르보나라",
+      "price": 15500,
+      "img": "../img/까르보나라.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "행복한다이닝",
+      "address": "경기 시흥시 배곧4로 32-28 그랜드프라자 3층",
+      "food_name": "디아볼라 피자",
+      "price": 17000,
+      "img": "../img/디아볼라 피자.jpg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "푸라닭",
+      "address": "인천 연수구 송도과학로27번길 55",
+      "food_name": "푸라닭치킨",
+      "price": 15900,
+      "img": "../img/푸라닭치킨.jpeg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "푸라닭",
+      "address": "인천 연수구 송도과학로27번길 55",
+      "food_name": "고추마요 치킨",
+      "price": 17900,
+      "img": "../img/고추마요치킨.jpeg"
+    },
+    {
+      "type": "양식",
+      "restaurant": "푸라닭",
+      "address": "인천 연수구 송도과학로27번길 55",
+      "food_name": "블랙알리오",
+      "price": 17900,
+      "img": "../img/블랙알리오.jpeg"
+    }
+  ]
+}
